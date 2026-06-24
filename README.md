@@ -1,17 +1,15 @@
 This project demonstrates a simple machine learning pipeline to predict diabetes using the Pima Indians Diabetes Dataset. The workflow includes data loading, preprocessing, train-test splitting, model training using XGBoost, and generating predictions.
 
 📌 Project Overview
-
 The goal of this project is to build a binary classification model that predicts whether a patient has diabetes based on medical attributes.
 
 The pipeline is modular and includes:
-
 Data loading using NumPy
 Train-test split using scikit-learn
 Model training using XGBoost Classifier
 Prediction on unseen test data
-📂 Dataset
 
+📂 Dataset
 The dataset used is:
 Pima Indians Diabetes Dataset
 
